@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Oritatami system}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{What is oritatami system?}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{How oritatami system works?}{4}{0}{1}
+\beamer@sectionintoc {2}{A deterministic oritatami system}{15}{0}{2}
+\beamer@sectionintoc {3}{Turing universal}{18}{0}{3}
+\beamer@sectionintoc {4}{Problem}{19}{0}{4}
+\beamer@sectionintoc {5}{Why unary?}{20}{0}{5}
+\beamer@sectionintoc {6}{Cases of non-Turing-universal oritatami systems}{21}{0}{6}
+\beamer@sectionintoc {7}{Proof of not Turing universality}{23}{0}{7}
+\beamer@subsectionintoc {7}{1}{Stabilization methods}{23}{0}{7}
+\beamer@subsectionintoc {7}{2}{$\alpha = 2$}{26}{0}{7}
+\beamer@subsectionintoc {7}{3}{$\delta = 1$ and $\alpha = 4$}{33}{0}{7}
+\beamer@subsectionintoc {7}{4}{Upper bound proof}{60}{0}{7}
+\beamer@sectionintoc {8}{References}{60}{0}{8}
